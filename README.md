@@ -14,4 +14,6 @@ The exmaple already supports :
 
 ### How to test :
 1. Clone or donwload the repository into : ``$nRF5_SDK_Location\examples\peripheral\`` folder.
-2. Each Button will control its related LED. So Button1 will turn ON/OFF the LED1 once Pressed/Released.
+2. Build and Run on your development-Kit.
+3. Use the on-board BUTTONS to turn ON/OFF the on-board LEDs.
+
